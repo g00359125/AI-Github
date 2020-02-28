@@ -1,0 +1,72 @@
+__________________________________________________________HTML______________________________________________________________________
+
+<html>
+<head>
+  
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Proj Mgt - Home</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  
+</head>
+<body>
+
+
+<!-- NAV -->
+<div class="container">
+<div class="logo"><img src="..."></div>
+
+<ul>
+  <li class="active"><a href="index.html">Home</a></li>
+  <li><a href="games.html">Games</a></li>
+  <li><a href="videos.html">Videos</a></li>
+  <li><a href="#">About</a></li>
+  <li><a href="feedback.html">Give Feedback!</a></li>
+</ul>
+
+</div>
+<h1>A.I. Artificial Intelligece</h1>
+
+</body>
+</html>
+
+
+____________________________________________________________CSS_________________________________________________________________________
+
+body{
+	background-image: url(../images/wallpaper.jpg);
+	background-size: cover;
+}
+
+.container{
+	margin:auto;
+}
+
+ul{
+	float: right;
+	list-style-type: none;
+	margin: 2%;
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+}
+
+ul li a:hover{
+	background-color: white;
+	color: #000;
+}
+
+ul li.active a{
+	background-color: white;
+	color: #000;
+}
