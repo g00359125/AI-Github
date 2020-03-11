@@ -1,0 +1,194 @@
+----------------------------------------------------------------------------HOME------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html>
+<head>
+     <title>AI - Home</title>
+	 <link rel="stylesheet" type="text/css" href="css/style.css">
+	 <link rel="stylesheet" type="text/css" href="css/index.css">
+	 
+</head>
+<body>
+     <div class="container">
+	    
+		<ul>
+		    <li><a href="index.html">Home</a></li>
+			<li><a href="videos.html">Videos</a></li>
+			<li><a href="#">Ratings</a></li>
+			<li><a href="#">About Us!</a></li>
+		</ul>
+		
+		<h1>A.I. Artificial Intelligence</h1>
+	</div>
+
+</body>
+
+----------------------------------------------------------------------------VIDEOS------------------------------------------------------------------------
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+     <title>AI - Videos</title>
+	 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	 <link rel="stylesheet" type="text/css" href="css/style.css">
+	 <link rel="stylesheet" type="text/css" href="css/videos.css">
+	 
+</head>
+<body>
+     <div class="container">
+	    
+		<ul>
+		    <li><a href="index.html">Home</a></li>
+			<li class="active"><a href="videos.html">Videos</a></li>
+			<li><a href="ratings.html">Ratings</a></li>
+			<li><a href="#">About Us!</a></li>
+		</ul>
+		
+		<h1>Videos:</h1>
+		
+		
+		<div class="video1">
+		<iframe width="300" height="150" src="https://www.youtube.com/embed/3DVahgVBrMQ" frameborder="0" allowfullscreen></iframe>
+		<div class="text1">
+		<h3>Battlefield 1 (Short Gameplay)</h3>
+		<p>Battlefield 1 is a First Person Shooter made by Electronic Arts (EA). It is one of the most realistic series of first person action games in the world.</p>
+		</div>
+		</div>
+		
+		<div class="video2">
+		<iframe width="300" height="150" src="https://www.youtube.com/embed/2zHMaQWDeP8" frameborder="0" allowfullscreen></iframe>
+		<div class="text2">
+		<h3>Fortnite (Short Montage)</h3>
+		<p>Fortnite is a battle royale made by Epic Games. Epic makes its games using Unreal Engine which is currently the most realistic graphical engine  existing</p>
+		<span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+		</div>
+		</div>
+	
+		<div class="video3">
+		<iframe width="300" height="150" src="https://www.youtube.com/embed/fKFP3Xllo9g" frameborder="0" allowfullscreen></iframe>
+		<div class="text3">
+		<h3>Call of Duty Modern Warfare (Short Gameplay)</h3>
+		<p>Call of Duty is owned by Activision. This series one of the best stories out there. Not only but apart from that the players enjoy its multiplayer!</p>
+		<span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>
+		</div>
+		</div>
+		
+		
+		
+		
+		</div>
+	</div>
+
+</body>
+</html>
+
+
+----------------------------------------------------------------------------Ratings------------------------------------------------------------------------
+
+
+<!DOCTYPE html>
+<html>
+<head>
+     <title>AI - Home</title>
+	 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	 <link rel="stylesheet" type="text/css" href="css/style.css">
+	 <link rel="stylesheet" type="text/css" href="css/ratings.css">
+	 
+</head>
+<body>
+     <div class="container">
+	    
+		<ul>
+		    <li><a href="index.html">Home</a></li>
+			<li><a href="videos.html">Videos</a></li>
+			<li><a href="#">Ratings</a></li>
+			<li><a href="#">About Us!</a></li>
+		</ul>
+		
+		<h1>Ratings</h1>
+	
+	
+	    <div class="img1">
+		<img src="images/BF1.jpg">
+		<div class="text1">
+		<h3>Battlefield 1</h3>
+		<p>Battlefield 1 is a First Person Shooter made by Electronic Arts (EA). It is one of the most realistic series of first person action games in the world.</p>
+		<span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+		</div>
+		</div>
+		
+		<div class="img2">
+		<img src="images/FN.jpg">
+		<div class="text2">
+		<h3>Fortnite</h3>
+		<p>Fortnite is a battle royale made by Epic Games. Epic makes its games using Unreal Engine which is currently the most realistic graphical engine  existing</p>
+		<span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span>
+		</div>
+		</div>
+	
+		<div class="img3">
+		<img src="images/MW.jpg">
+		<div class="text3">
+		<h3>Call of Duty Modern Warfare</h3>
+		<p>Call of Duty is owned by Activision. This series one of the best stories out there. Not only but apart from that the players enjoy its multiplayer!</p>
+		<span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>
+		</div>
+		</div>
+		
+		<div class="img4">
+		<img src="images/rdr2.jpg">
+		<div class="text4">
+		<h3>Red Dead Redemption 2</h3>
+		<p>Red Dead Redemption 2 is a 2018 action-adventure game developed and published by Rockstar Games. The game is the third entry in the Red Dead series.</p>
+		<span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+		</div>
+		</div>
+		
+		<div class="img5">
+		<img src="images/csgo.jpg">
+		<div class="text5">
+		<h3>Counter-Strike Global Offensive</h3>
+		<p>Counter-Strike: Global Offensive is a multiplayer first-person shooter video game developed by Valve and Hidden Path Entertainment. It is fourth in the Counter-Strike series.</p>
+		<span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>
+		</div>
+		</div>
+	</div>
+
+</body>
+</html>
+
+
+
+
+
+

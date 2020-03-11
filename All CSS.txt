@@ -1,0 +1,200 @@
+----------------------------------------------------------------------------MAIN STYLE------------------------------------------------------------------------
+
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+}
+
+.container{
+	background-image: url(../1.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 130vh;
+	overflow: hidden;
+	border: 2px solid white;
+}
+
+ul{
+	float: left;
+	list-style-type: none;
+	margin-top: 25px;
+	margin-left: 10px;
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	color: white;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+}
+
+ul li a:hover{
+	background: linear-gradient(to right, rgb(18, 194, 233), rgb(196, 113, 237), rgb(246, 79, 89));
+	color: white;
+}
+
+.active{
+	background: linear-gradient(to right, rgb(18, 194, 233), rgb(196, 113, 237), rgb(246, 79, 89));
+	color: white;
+}
+
+
+----------------------------------------------------------------------------INDEX------------------------------------------------------------------------
+
+
+h1{
+	color: white;
+	position: absolute;
+	top: 50%;
+	left: 42%;
+}
+
+
+----------------------------------------------------------------------------VIDEOS------------------------------------------------------------------------
+
+h1{
+	color: white;
+	position: absolute;
+	top: 15%;
+	left: 46%;
+}
+
+.video1{
+	position: absolute;
+	top: 30%;
+	left: 5%;
+
+}
+
+.text1{
+	margin-left: 110%;
+	margin-top: -52%;
+	color: white;
+	width: 300px;
+}
+
+.video2{
+	position: absolute;
+	top: 50%;
+	left: 5%;
+}
+
+.text2{
+	margin-left: 110%;
+	margin-top: -52%;
+	color: white;
+	width: 300px;
+}
+
+.video3{
+	position: absolute;
+	top: 70%;
+	left: 5%;
+
+}
+
+.text3{
+	margin-left: 110%;
+	margin-top: -52%;
+	color: white;
+	width: 300px;
+}
+
+.checked {
+  color: orange;
+
+
+----------------------------------------------------------------------------RATINGS------------------------------------------------------------------------
+
+h1{
+	color: white;
+	position: absolute;
+	top: 15%;
+	left: 46%;
+}
+
+img{
+	width: 300px;
+	height: 150px;
+}
+
+.img1{
+	position: absolute;
+	top: 30%;
+	left: 5%;
+
+}
+
+.text1{
+	margin-left: 110%;
+	margin-top: -52%;
+	color: white;
+	width: 300px;
+}
+
+.img2{
+	position: absolute;
+	top: 50%;
+	left: 5%;
+}
+
+.text2{
+	margin-left: 110%;
+	margin-top: -52%;
+	color: white;
+	width: 300px;
+}
+
+.img3{
+	position: absolute;
+	top: 70%;
+	left: 5%;
+
+}
+
+.text3{
+	margin-left: 110%;
+	margin-top: -52%;
+	color: white;
+	width: 300px;
+}
+
+.img4{
+	position: absolute;
+	top: 90%;
+	left: 5%;
+
+}
+
+.text4{
+	margin-left: 110%;
+	margin-top: -52%;
+	color: white;
+	width: 300px;
+}
+
+.img5{
+	position: absolute;
+	top: 110%;
+	left: 5%;
+
+}
+
+.text5{
+	margin-left: 110%;
+	margin-top: -52%;
+	color: white;
+	width: 300px;
+}
+
+.checked {
+  color: orange;
+
+
